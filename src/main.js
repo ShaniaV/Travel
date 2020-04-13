@@ -8,6 +8,8 @@ import router from './router'
 import fastClick from 'fastclick'
 // 重置css样式  统一不同手机不同浏览器默认样式不一致
 import './assets/styles/reset.css'
+import './assets/styles/border.css'
+import './assets/styles/iconfont.css'
 
 Vue.config.productionTip = false
 fastClick.attach(document.body)
